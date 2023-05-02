@@ -1,0 +1,482 @@
+[
+  {
+    "id": "1",
+    "chefPicture": "https://cdn.siasat.com/wp-content/uploads/2022/05/brak.jpg",
+    "chefName": "Burak Özdemir",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 500,
+    "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Curry",
+        "image": "",
+        "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices",
+          "Coconut Milk"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add onions and sauté till golden brown. 3. Add spices and sauté for a minute. 4. Add chicken and cook till browned. 5. Add chopped tomatoes and cook till soft. 6. Add coconut milk and let it simmer for 10 minutes.",
+        "rating": 4.5
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stroganoff",
+        "image": "",
+
+        "ingredients": [
+          "Beef Sirloin",
+          "Mushrooms",
+          "Onions",
+          "Sour Cream",
+          "Egg Noodles"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add beef sirloin and cook till browned. 3. Remove beef from pan. 4. Add onions and sauté till golden brown. 5. Add mushrooms and sauté for a few minutes. 6. Add beef back to the pan. 7. Add sour cream and let it simmer for 10 minutes. 8. Serve with egg noodles.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "chefPicture": "https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/VFZ7QJQHNQVQOJ547UDL3HHVYY.jpg",
+    "chefName": "Bader Najeeb",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 500,
+    "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Curry",
+        "image": "",
+        "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices",
+          "Coconut Milk"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add onions and sauté till golden brown. 3. Add spices and sauté for a minute. 4. Add chicken and cook till browned. 5. Add chopped tomatoes and cook till soft. 6. Add coconut milk and let it simmer for 10 minutes.",
+        "rating": 4.5
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stroganoff",
+        "image": "",
+
+        "ingredients": [
+          "Beef Sirloin",
+          "Mushrooms",
+          "Onions",
+          "Sour Cream",
+          "Egg Noodles"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add beef sirloin and cook till browned. 3. Remove beef from pan. 4. Add onions and sauté till golden brown. 5. Add mushrooms and sauté for a few minutes. 6. Add beef back to the pan. 7. Add sour cream and let it simmer for 10 minutes. 8. Serve with egg noodles.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "chefPicture": "https://i1.rgstatic.net/ii/profile.image/1043390036733952-1625774978100_Q512/Abdulrahman-Alkassem.jpg",
+    "chefName": "Abdulrahman Alkassem",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 500,
+    "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Curry",
+        "image": "",
+        "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices",
+          "Coconut Milk"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add onions and sauté till golden brown. 3. Add spices and sauté for a minute. 4. Add chicken and cook till browned. 5. Add chopped tomatoes and cook till soft. 6. Add coconut milk and let it simmer for 10 minutes.",
+        "rating": 4.5
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stroganoff",
+        "image": "",
+
+        "ingredients": [
+          "Beef Sirloin",
+          "Mushrooms",
+          "Onions",
+          "Sour Cream",
+          "Egg Noodles"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add beef sirloin and cook till browned. 3. Remove beef from pan. 4. Add onions and sauté till golden brown. 5. Add mushrooms and sauté for a few minutes. 6. Add beef back to the pan. 7. Add sour cream and let it simmer for 10 minutes. 8. Serve with egg noodles.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "chefPicture": "https://cdn-food.tribune.com.pk/users/chef/8xxjEDeBACzeb6iZ6yvqigyLKGhxXwSzyq5gDn4i.jpeg",
+    "chefName": "Mehboob Khan",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 500,
+    "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Curry",
+        "image": "",
+        "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices",
+          "Coconut Milk"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add onions and sauté till golden brown. 3. Add spices and sauté for a minute. 4. Add chicken and cook till browned. 5. Add chopped tomatoes and cook till soft. 6. Add coconut milk and let it simmer for 10 minutes.",
+        "rating": 4.5
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stroganoff",
+        "image": "",
+
+        "ingredients": [
+          "Beef Sirloin",
+          "Mushrooms",
+          "Onions",
+          "Sour Cream",
+          "Egg Noodles"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add beef sirloin and cook till browned. 3. Remove beef from pan. 4. Add onions and sauté till golden brown. 5. Add mushrooms and sauté for a few minutes. 6. Add beef back to the pan. 7. Add sour cream and let it simmer for 10 minutes. 8. Serve with egg noodles.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOaZkfSnCi2v-saRzgeKH6u81ht94ttUjPycbCZp4YsiVkpYw",
+    "chefName": "Sikander Rizvi",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 500,
+    "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Curry",
+        "image": "",
+        "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices",
+          "Coconut Milk"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add onions and sauté till golden brown. 3. Add spices and sauté for a minute. 4. Add chicken and cook till browned. 5. Add chopped tomatoes and cook till soft. 6. Add coconut milk and let it simmer for 10 minutes.",
+        "rating": 4.5
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stroganoff",
+        "image": "",
+
+        "ingredients": [
+          "Beef Sirloin",
+          "Mushrooms",
+          "Onions",
+          "Sour Cream",
+          "Egg Noodles"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add beef sirloin and cook till browned. 3. Remove beef from pan. 4. Add onions and sauté till golden brown. 5. Add mushrooms and sauté for a few minutes. 6. Add beef back to the pan. 7. Add sour cream and let it simmer for 10 minutes. 8. Serve with egg noodles.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "chefPicture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrUxiks6L6LXriHrGhUodmhHzaZV9ZuXxJuiS2Y2zr8BajZNbh",
+    "chefName": "Tommy Miah",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 500,
+    "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
+    "recipes": [
+      {
+        "name": "Spicy Chicken Curry",
+        "image": "",
+        "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices",
+          "Coconut Milk"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add onions and sauté till golden brown. 3. Add spices and sauté for a minute. 4. Add chicken and cook till browned. 5. Add chopped tomatoes and cook till soft. 6. Add coconut milk and let it simmer for 10 minutes.",
+        "rating": 4.5
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mushroom Risotto",
+        "image": "",
+
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Parmesan Cheese",
+          "White Wine",
+          "Chicken Broth"
+        ],
+        "cookingMethod": "1. Heat broth in a pot. 2. Heat oil in a pan. 3. Add onions and sauté till golden brown. 4. Add arborio rice and stir for a minute. 5. Add white wine and stir till it evaporates. 6. Add mushrooms and stir for a few minutes. 7. Add broth one ladle at a time and stir till it's absorbed. 8. Keep repeating till the rice is cooked. 9. Add parmesan cheese and stir till it's melted.",
+        "rating": 4.2
+      },
+      {
+        "name": "Beef Stroganoff",
+        "image": "",
+
+        "ingredients": [
+          "Beef Sirloin",
+          "Mushrooms",
+          "Onions",
+          "Sour Cream",
+          "Egg Noodles"
+        ],
+        "cookingMethod": "1. Heat oil in a pan. 2. Add beef sirloin and cook till browned. 3. Remove beef from pan. 4. Add onions and sauté till golden brown. 5. Add mushrooms and sauté for a few minutes. 6. Add beef back to the pan. 7. Add sour cream and let it simmer for 10 minutes. 8. Serve with egg noodles.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
