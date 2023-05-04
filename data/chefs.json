@@ -89,7 +89,7 @@
     "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
     "recipes": [
       {
-        "name": "Spicy Chicken Curry",
+        "name": "Chicken",
         "image": "",
         "ingredients": [
           "Chicken",
@@ -102,7 +102,7 @@
         "rating": 4.5
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Risotto",
         "image": "",
 
         "ingredients": [
@@ -116,7 +116,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Mushroom",
         "image": "",
 
         "ingredients": [
@@ -130,7 +130,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": " Beef",
         "image": "",
 
         "ingredients": [
@@ -169,7 +169,7 @@
     "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
     "recipes": [
       {
-        "name": "Spicy Chicken Curry",
+        "name": "Dessert Curry",
         "image": "",
         "ingredients": [
           "Chicken",
@@ -196,7 +196,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Miscellaneous",
         "image": "",
 
         "ingredients": [
@@ -210,7 +210,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Pasta Risotto",
         "image": "",
 
         "ingredients": [
@@ -249,7 +249,7 @@
     "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
     "recipes": [
       {
-        "name": "Spicy Chicken Curry",
+        "name": "Pork Curry",
         "image": "",
         "ingredients": [
           "Chicken",
@@ -276,7 +276,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Seafood Risotto",
         "image": "",
 
         "ingredients": [
@@ -290,7 +290,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Side Risotto",
         "image": "",
 
         "ingredients": [
@@ -329,7 +329,7 @@
     "bio": " Celebrity chef Ozdemir Burak, who is popularly known as CZN Burak worldwide, has been hospitalised. The cooking sensation himself revealed it on Instagram on Sunday. Taking to his photo-sharing app, Burak shared a picture of himself sitting on a hospital bed in a blue surgical gown and a head cap.",
     "recipes": [
       {
-        "name": "Spicy Chicken Curry",
+        "name": "Starter Curry",
         "image": "",
         "ingredients": [
           "Chicken",
@@ -356,7 +356,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Vegan Risotto",
         "image": "",
 
         "ingredients": [
@@ -370,7 +370,7 @@
         "rating": 4.2
       },
       {
-        "name": "Mushroom Risotto",
+        "name": "Vegetarian Risotto",
         "image": "",
 
         "ingredients": [
@@ -384,7 +384,7 @@
         "rating": 4.2
       },
       {
-        "name": "Beef Stroganoff",
+        "name": "Breakfast Stroganoff",
         "image": "",
 
         "ingredients": [
